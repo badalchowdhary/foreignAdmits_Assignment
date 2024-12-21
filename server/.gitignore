@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+# .env.*
+
+# System files
+.DS_Store
+
+# git files
+# .gitignore
