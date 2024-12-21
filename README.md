@@ -1,5 +1,7 @@
 # ForeignAdmits_Assignment
 
+### API Documentation: https://documenter.getpostman.com/view/29533327/2sAYJ3F2Dg
+
 ## Getting Started
 
 Follow the steps below to set up and run the project locally.
