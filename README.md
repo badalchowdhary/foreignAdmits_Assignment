@@ -13,7 +13,7 @@ Follow the steps below to set up and run the project locally.
 1. Clone the repository
 
 ```sh
-   git clone <>
+   git clone https://github.com/badalchowdhary/foreignAdmits_Assignment.git
 ```
 
 2. Navigate to the Server Directory
